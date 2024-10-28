@@ -1,4 +1,9 @@
-# person-detection-retail-0013
+# 사람인식 보행자 신호등 
+
+##  person-detection-retail-0013 모델을 사용하여 사람을 인식하면 아두이노 LED를 Green 으로 사람이 인식되지 않으면 Led를 Red로 변경
+
+
+#person-detection-retail-0013
 
 ## Use Case and High-Level Description
 
